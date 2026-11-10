@@ -5,3 +5,19 @@ __pycache__/
 data/bronze/
 data/silver/
 data/gold/
+
+# Notebooks antigos
+backup/
+**/backup/
+
+# Arquivos temporários do Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Ambiente virtual
+.venv/
+venv/
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
